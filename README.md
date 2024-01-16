@@ -1,4 +1,6 @@
-### Hi there 👋
+Hi, I'm Anirudh! 👋
+
+I'm a software developer and Computer Science Student at the University of Waterloo! I'm also actively involved in contributing to tech projects for social good. My interests lie in full-stack web development, machine learning, and data analysis 🌐🤖📊.
 
 <!--
 **AnirudhGoel2004/AnirudhGoel2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
