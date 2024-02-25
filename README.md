@@ -9,7 +9,7 @@ A software developer and coding enthusiast 💻. Currently on a quest for my Bac
 
 
 <!--
-**AnirudhGoel2004/AnirudhGoel2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AnirudhGoel2004/AnirudhGoel2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile!
 
 Here are some ideas to get you started:
 
