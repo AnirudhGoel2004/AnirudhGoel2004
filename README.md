@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Anirudh Goel
 
-## Aspiring Innovator, Software Developer, and Student at the University of Waterloo
+## Aspiring Innovator, Software Engineer, and Student at the University of Waterloo
 
 A software developer and coding enthusiast 💻. Let's code and create some digital magic! ✨👨‍💻✨
 
