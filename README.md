@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Anirudh Goel
+# 👋 Hey, I’m Anirudh
 
 ## Aspiring Innovator, Software Engineer, and Student at the University of Waterloo
 
