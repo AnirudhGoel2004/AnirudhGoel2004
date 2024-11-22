@@ -3,8 +3,10 @@
 
 <p align="center"><a href=#><img src="contributions.svg"></a> </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools:
+
 [![My Skills](https://skillicons.dev/icons?i=python,java,typescript,react,nodejs,docker,kubernetes,aws,mysql,mongodb)](https://skillicons.dev)
+
 
 
 <!--
