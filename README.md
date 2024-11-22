@@ -1,6 +1,5 @@
-# 👋 Hey, I’m Anirudh
-
-## Aspiring Innovator, Software Engineer, and Student at the University of Waterloo
+<h1 align="center">👋 Hey, I’m Anirudh</h1>
+<h3 align="center">Aspiring Innovator, Software Engineer, and Student at the University of Waterloo</h3>
 
 <p align="center"><a href=#><img src="contributions.svg"></a> </p>
 
