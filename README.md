@@ -2,6 +2,8 @@
 
 ## Aspiring Innovator, Software Engineer, and Student at the University of Waterloo
 
+<p align="center"><a href=#><img src="contributions.svg"></a> </p>
+
 A coding enthusiast 💻
 
 <h3 align="left">Languages and Tools:</h3>
