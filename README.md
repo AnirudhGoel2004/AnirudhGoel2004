@@ -10,7 +10,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-<p align="center"> [![My Skills](https://skillicons.dev/icons?i=python,java,typescript,react,nodejs,docker,kubernetes,aws,mysql,mongodb)](https://skillicons.dev) </p>
+[![My Skills](https://skillicons.dev/icons?i=python,java,typescript,react,nodejs,docker,kubernetes,aws,mysql,mongodb)](https://skillicons.dev)
 
 
 
