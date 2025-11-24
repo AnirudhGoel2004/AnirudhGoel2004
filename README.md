@@ -1,5 +1,4 @@
 <h1 align="center">👋 Hey, I’m Anirudh</h1>
-<h3 align="center">A coding enthusiast 💻</h3>
 
 <p align="center"><a href=#><img src="contributions.svg"></a> </p>
 
